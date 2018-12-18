@@ -2,6 +2,11 @@
 
 This tool is created to reduce Camp scraping time. having to do a thousand repeat key clicks to fix a bug is just to hard on the hands. this tool is for windows PC users, sorry Xbox/PS4.
 
+It now also does the following:
+
+* Pump Water
+* AFK Preventer
+
 INSTRUCTIONS:
 1. go to your desktop and load the program, read the prompt and press ok to continue.
 2. Input the number of items you want to scrap in this session, you will be able to change this later by pushing ALT+F7.
